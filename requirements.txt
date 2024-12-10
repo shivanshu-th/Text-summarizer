@@ -1,7 +1,7 @@
 transformers
 transformers[sentencepiece]
 datasets
-sacreblue
+sacrebleu
 torch
 rouge_score
 py7zr
